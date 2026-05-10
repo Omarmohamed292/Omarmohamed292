@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**Omarmohamed292/Omarmohamed292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student and Junior Backend Developer passionate about:
+- Backend Development
+- Problem Solving
+- System Design
+- AI & Machine Learning
 
-Here are some ideas to get you started:
+## Tech Stack
+- C#
+- Java
+- ASP.NET Core
+- SQL Server
+- C++
+- JavaScript
+- Node.js
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### N-Queens using MPI
+Parallel implementation of the N-Queens problem using MPI and backtracking.
+
+### Login System
+Authentication system using Node.js.
+
+## Currently Learning
+- Advanced ASP.NET Core
+- Clean Architecture
+- System Design
+- Machine Learning
+
+## Connect With Me
+- GitHub: https://github.com/Omarmohamed292
+- Linkedin: www.linkedin.com/in/omar-mohamed-64-o-m-a-r
+
+
+
