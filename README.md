@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/omar-mohamed-64-o-m-a-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/omar-mohamed-64-o-m-a-r/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:omahj8897@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -94,4 +94,4 @@ A banking application supporting account creation, deposits, withdrawals, and ba
 
 ## Let's connect
 
-I'm open to junior .NET / backend opportunities in Egypt. The best way to reach me is by [email](mailto:omahj8897@gmail.com) or [LinkedIn](https://www.linkedin.com/in/omar-mohamed-64-om-a-r).
+I'm open to junior .NET / backend opportunities in Egypt. The best way to reach me is by [email](mailto:omahj8897@gmail.com) or [LinkedIn](https://www.linkedin.com/in/omar-mohamed-64-o-m-a-r/).
