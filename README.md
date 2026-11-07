@@ -81,16 +81,6 @@ A web application for managing students, instructors, and courses, with full CRU
 
 A banking application supporting account creation, deposits, withdrawals, and balance queries, built around encapsulation, inheritance, and polymorphism, with edge cases handled.
 
----
-
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Omarmohamed292&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarmohamed292&layout=compact&hide_border=true" alt="Top languages">
-</p>
-
----
 
 ## Let's connect
 
