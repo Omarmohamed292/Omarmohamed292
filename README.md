@@ -17,7 +17,7 @@ I'm a backend-focused Computer Science graduate (GPA 3.78 / 4.0) with a .NET foc
 
 - 🎓 B.Sc. in Computer Science, 2026 — graduation project graded **Excellent**
 - 🏥 Built the authentication/authorization services and the database schema for **DoseFinder**, a drug-information platform for Nile Badrawi Hospital (team of 6)
-- 🧑‍💻 Completed the **ITI Full-Stack .NET** training course (certified)
+- 🧑‍💻 Completed the **Depi Full-Stack .NET** training course (certified)
 - 🔎 Looking for an entry-level **.NET Backend / Software Developer** role
 
 ---
